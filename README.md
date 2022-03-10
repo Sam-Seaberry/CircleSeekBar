@@ -3,9 +3,9 @@
 This app is just a single circular seekbar (technically a progressbar). The app was created
 to test the seekbar before implmenting it into another application. 
 
-![](images/circlebar.png)
-![](images/circlebar50.png)
-![](images/circlebar100.png)
+![](images/circlebar.PNG)
+![](images/circlebar50.PNG)
+![](images/circlebar100.PNG)
 
 
 
